@@ -1,0 +1,51 @@
+---
+title: "Education"
+---
+
+::::: degree
+::: degree-logo
+<img src="images/imperial-logo.png" alt="Imperial College London"/>
+:::
+
+::: degree-info
+<h3>PhD Ecology</h3>
+
+<p>Imperial College London · Silwood Park, UK · 2023–present</p>
+:::
+:::::
+
+::::: degree
+::: degree-logo
+<img src="images/imperial-logo.png" alt="Imperial College London"/>
+:::
+
+::: degree-info
+<h3>BSc Biological Sciences</h3>
+
+<p>Imperial College London · London, UK · 2020–2023</p>
+:::
+:::::
+
+::::: degree
+::: degree-logo
+<img src="images/southampton-logo.png" alt="University of Southampton"/>
+:::
+
+::: degree-info
+<h3>MSc Education</h3>
+
+<p>University of Southampton · Southampton, UK · 2015–2017</p>
+:::
+:::::
+
+::::: degree
+::: degree-logo
+<img src="images/swansea-logo.png" alt="Swansea University"/>
+:::
+
+::: degree-info
+<h3>BA English</h3>
+
+<p>Swansea University · Swansea, UK · 2007–2010</p>
+:::
+:::::
