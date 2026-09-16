@@ -6,11 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About
+        text: Research
       - href: publications.qmd
         text: Publications
-      - href: education.qmd
-        text: Education
+      - href: about.qmd
+        text: About
 
 
 format:

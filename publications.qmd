@@ -3,23 +3,33 @@ title: "Publications"
 ---
 
 ## Publications
-A selection of my publications is listed here. Please check out my [Google Scholar](https://scholar.google.com/citations?user=WGfUlWwAAAAJ&hl=en) for more!
 
-
-**Systematic mapping shows monitoring, evaluation, and engagement are needed to build an evidence base for rewilding**
+\(1\) **Systematic mapping shows monitoring, evaluation, and engagement are needed to build an evidence base for rewilding**
 
 Pates, N. J. et al (2026) *BioRxiv* \[preprint\]
 
 [View publication](https://www.biorxiv.org/content/10.64898/2026.01.02.697359v1.abstract)
 
-**Using landscape biodiversity metrics to assess rewilding: A comparison of the Knepp Estate and an agricultural baseline at Boothby Wildland**
+\(2\) **Using landscape biodiversity metrics to assess rewilding: A comparison of the Knepp Estate and an agricultural baseline at Boothby Wildland**
 
 Pates, N. J. et al (2025) *Ecological Solutions and Evidence*
 
 [View publication](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.70090)
 
-**Grey matters: Ensuring management information is a part of the permanent evidence base by creating open grey literature principles**
+\(3\) **Grey matters: Ensuring management information is a part of the permanent evidence base by creating open grey literature principles**
 
 Cadotte, Marc, W. et al. (2025) *Ecological Solutions and Evidence*
 
 [View publication](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.70031)
+
+\(4\) **Drivers of individual plant species contributions to β-diversity are scale-dependent**
+
+Learmonth, R. et al. (2026) *Oikos*
+
+[View publication](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1002/oik.11937)
+
+\(5\) **Reversing biodiversity loss requires a World Biodiversity Organisation that can bridge finance and nature**
+
+Pearse, W. D. et al. (2026) *EcoEvoRxiv* \[preprint\]
+
+[View publication](https://ecoevorxiv.org/repository/view/13090/)
