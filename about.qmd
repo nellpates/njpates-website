@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Career and Education"
 ---
 
 ::::: degree
@@ -10,9 +10,11 @@ title: "About"
 ::: degree-info
 <h3>PhD Ecology</h3>
 
-<p>Imperial College London · Silwood Park, UK · 2023–present</p>
+<p>Imperial College London · Silwood Park, UK · 2023–Present</p>
+
 :::
 :::::
+
 
 ::::: degree
 ::: degree-logo
@@ -23,8 +25,99 @@ title: "About"
 <h3>BSc Biological Sciences</h3>
 
 <p>Imperial College London · London, UK · 2020–2023</p>
+
 :::
 :::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/qaf-logo.png" alt="QAF"/>
+:::
+
+::: degree-info
+<h3>Qatar Armed Forces</h3>
+
+<p>2018–2020</p>
+
+<p class="degree-description">At the Ahmed Bin Mohammed Military Academy I worked in training design and delivery, and also acted as a liaison for officer cadets attending international courses.</p>
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/army-logo.png" alt="British Army (Reserve)"/>
+:::
+
+::: degree-info
+<h3>British Army</h3>
+
+<p>2016–2018</p>
+
+<p class="degree-description">I worked as a Group Leader for the Army Officer Selection Board at Westbury. I was responsible for facilitating the candidate experience of officer selection over three and a half days of diverse assessments.</p>
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/undp-logo.png" alt="UNDP"/>
+:::
+
+::: degree-info
+<h3>UNDP</h3>
+
+<p>2015–2016</p>
+
+<p class="degree-description">Between November 2015 and December 2016 I worked in Central Asia (Tajikistan and Afghanistan) over 5 short-term contracts to plan and deliver instructor training courses for members of the Afghan Border Police. I worked for EU-BOMNAF (EU Border Management in Northern Afghanistan), a UNDP project focussed on long-term border management.</p>
+
+</ul>
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/fieri-logo.png" alt="Fieri"/>
+:::
+
+::: degree-info
+<h3>Self-employed contractor</h3>
+
+<p>2015–Present</p>
+
+<p class="degree-description">As a self-employed training and education consultant I developed and delivered on multiple projects for Fieri - a leadership and team development company.</p>
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/teacher-active-logo.png" alt="Teacher Active"/>
+:::
+
+::: degree-info
+<h3>Teacher Active</h3>
+
+<p>2015–2016</p>
+
+<p class="degree-description">Rowdeford School in Devizes is a specialist secondary school for communication and interaction. I was responsible for Year 9 form. Planned and delivered PE, literacy, and learning outside the classroom to children with special educational needs, aged 11 to 16.</p>
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/army-logo.png" alt="British Army"/>
+:::
+
+::: degree-info
+<h3>British Army</h3>
+
+<p>2013-2017</p>
+
+<p class="degree-description">I was the single point of contact and subject matter expert for wounded, injured and sick service people at Headley Court and within the Recovery Unit in my area of responsibility (Aldershot).  I provided advice on education and training as well as career guidance and signposting support. During this role, I also achieved a MSc in Education.</p>
 
 ::::: degree
 ::: degree-logo
@@ -32,11 +125,75 @@ title: "About"
 :::
 
 ::: degree-info
-<h3>MSc Education</h3>
+<h3>MSc</h3>
 
-<p>University of Southampton · Southampton, UK · 2015–2017</p>
+
+<p>University of Southampton · 2014–2017</p>
 :::
 :::::
+
+:::
+:::::
+
+::::: degree
+::: degree-logo
+<img src="images/army-logo.png" alt="British Army"/>
+:::
+
+::: degree-info
+<h3>British Army - Operational Tour of Afghanistan</h3>
+
+<p>2013</p>
+
+<p class="degree-description">I worked at the Joint Theatre Education Centre in Camp Bastion, Afghanistan, as part of a small team. We provided mandatory education courses to soldiers, enabling them to remain eligible for career progression despite being deployed. I was responsible for the planning, implementation and assessment of the Level 1 and 2 Literacy and Numeracy programme that ran throughout the tour.</p>
+:::
+:::::
+
+
+
+
+::::: degree
+::: degree-logo
+<img src="images/army-logo.png" alt="British Army"/>
+:::
+
+::: degree-info
+<h3>British Army</h3>
+
+<p>2011–2013</p>
+
+<p class="degree-description">I worked in an education centre in Tidworth to deliver courses in Command, Leadership and Management to soldiers. I also worked for my PGCE during this time, and learned to deliver language and culture courses to support operational deployments to Afghanistan.</p>
+
+::::: degree
+::: degree-logo
+<img src="images/southampton-logo.png" alt="University of Southampton"/>
+:::
+
+::: degree-info
+<h3>PGCE</h3>
+
+<p>University of Southampton · 2011–2013</p>
+:::
+:::::
+
+:::
+:::::
+
+
+::::: degree
+::: degree-logo
+<img src="images/rmas-logo.png" alt="RMAS"/>
+:::
+
+::: degree-info
+<h3>RMAS - Regular Commissioning Course</h3>
+
+<p>2010–2011</p>
+
+<p class="degree-description">The Regular Commissioning Course at the Royal Military AcademySandhurst is an intensive leadership course that prepares officers to lead soldiers in war and peacetime. The course covers basic military skills, decision making, and leadership in increasingly complex scenarios over the course of 44 weeks.</p>
+:::
+:::::
+
 
 ::::: degree
 ::: degree-logo
@@ -46,6 +203,7 @@ title: "About"
 ::: degree-info
 <h3>BA English</h3>
 
-<p>Swansea University · Swansea, UK · 2007–2010</p>
+<p>University of Swansea · Swansea, UK · 2007–2010</p>
+
 :::
 :::::

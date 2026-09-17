@@ -29,7 +29,17 @@ I am a PhD researcher in the Department of Life Sciences at Imperial College Lon
 
 ## Research
 
-My research is focused on rewilding - allowing natural processes to recover in damaged habitats. I have combined fieldwork, statistical, and molecular techniques to investigate how landscapes change when they are rewilded and develop methods and metrics to allow us to study this subject more quantitatively. I want to answer questions like: how can we measure changes in biodiversity under rewilding? How does rewilding impact different taxonomic groups? Can we say if rewilding is working?
+My research is focused on rewilding - allowing natural processes to recover in damaged habitats. I have combined fieldwork, statistical, and molecular techniques to investigate how landscapes change when they are rewilded and develop methods and metrics to allow us to study this subject more quantitatively.
+
+I want to answer questions like:
+
+- How can we measure changes in biodiversity under rewilding?
+
+- How does rewilding impact different taxonomic groups?
+
+- What do different stakeholders (researchers, practitioners) want rewilding to achieve?
+
+- Can we say if rewilding is working?
 
 During my PhD, I have been fortunate to conduct fieldwork around the UK: at the Knepp Estate in Sussex; at two rewilding projects overseen by Nattergal (Boothby and High Fen); at a selection of UK National Trust sites in the south of England; and at RSPB Haweswater in the Lake District.
 
