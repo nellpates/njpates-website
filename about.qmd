@@ -72,7 +72,6 @@ title: "Career and Education"
 
 <p class="degree-description">Between November 2015 and December 2016 I worked in Central Asia (Tajikistan and Afghanistan) over 5 short-term contracts to plan and deliver instructor training courses for members of the Afghan Border Police. I worked for EU-BOMNAF (EU Border Management in Northern Afghanistan), a UNDP project focussed on long-term border management.</p>
 
-</ul>
 :::
 :::::
 
